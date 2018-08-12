@@ -20,6 +20,8 @@ Python Script to automatically renew libary books online via the online library 
 Install required packages:
 `pip install -r requirements.txt`
 
+Fill in the required information in the config.ini file. This will be your UEA email and password.
+
 Run:
 `python __main__.py`
 
