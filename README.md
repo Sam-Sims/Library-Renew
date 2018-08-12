@@ -20,7 +20,7 @@ Python Script to automatically renew libary books online via the online library 
 Install required packages:
 `pip install -r requirements.txt`
 
-Execute script:
+Run:
 `python __main__.py`
 
 ## Contact
