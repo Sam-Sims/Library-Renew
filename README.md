@@ -6,14 +6,14 @@ Python Script to automatically renew libary books online via the online library 
 
 ## Features:
 
-* Renews All Books
+* Renews all books
 * Displays data in friendly table format
 
 ## TODO
 
-- [ ] Display Error Messages
+- [ ] Display error messages
 - [ ] Show Fines
-- [ ] Renew Specific Books
+- [ ] Renew specific books
 
 ## Installation
 
